@@ -20,13 +20,6 @@ It’s not just a demo. It’s a glimpse into the future of embodied AI.
 
 ---
 
-## 🚀 Demo
-
-https://user-images.githubusercontent.com/YOUR-USERNAME/demo-r2d2.mp4
-
-*“Hey R2D2, what’s that object?” → R2D2 turns, identifies a red cup, and says: “That looks like a red Solo cup. Party mode?”*
-
----
 
 ## 🧠 Architecture
 
